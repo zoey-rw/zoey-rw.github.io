@@ -12,6 +12,6 @@ Hi, my name is Zoey Werbin. I am a PhD candidate in the Bhatnagar Lab at Boston 
 
 I am funded by a Graduate Research Fellowship from the [National Science Foundation](https://www.nsfgrfp.org/), as well as a Microbiome Fellowship from the [Boston University Microbiome Initiative](https://sites.bu.edu/microbiome/).
 
-
-#{% twitter https://twitter.com/zoeywerbin maxwidth=500 limit=5 %}
-{% twitter https://twitter.com/rubygems/status/518821243320287232 %}
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/zoeywerbin maxwidth=500 limit=5 %}
+</div>
