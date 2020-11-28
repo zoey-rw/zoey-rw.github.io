@@ -26,3 +26,5 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem 'jekyll-twitter-plugin'
 end
+
+gem 'jekyll-twitter-plugin'
