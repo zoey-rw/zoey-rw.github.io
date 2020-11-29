@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+[Werbin_CV_May2020.pdf](zoey-rw.github.io/images/Werbin_CV_May2020.pdf).
+
+
 <html lang="en" style="width:100%; height:100%;">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
