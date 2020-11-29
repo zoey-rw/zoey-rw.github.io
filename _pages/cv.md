@@ -16,7 +16,7 @@ redirect_from:
   <title>CV</title>
 </head>
   <body style="width:100%; height:100%; margin:0;">
-    <iframe src="zoey-rw.github.io/images/Werbin_CV_May2020.pdf" style="width:100%; height:100%;" frameborder="0"></iframe>
+    <iframe src="https://docs.google.com/gview?url=zoey-rw.github.io/images/Werbin_CV_May2020.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
   </body>
 </html>
 
