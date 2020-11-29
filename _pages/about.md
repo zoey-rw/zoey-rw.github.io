@@ -11,8 +11,3 @@ redirect_from:
 Hi, my name is Zoey Werbin. I am a PhD candidate in the Bhatnagar Lab at Boston University. I study the ecology of the soil microbiome, using tools from bioinformatics, Bayesian statistics, and network science.
 
 I am funded by a Graduate Research Fellowship from the [National Science Foundation](https://www.nsfgrfp.org/), as well as a Microbiome Fellowship from the [Boston University Microbiome Initiative](https://sites.bu.edu/microbiome/).
-
-<div class='jekyll-twitter-plugin' align="center">
-  {% plugin_type twitter_url %}
-  {% twitter https://twitter.com/zoeywerbin maxwidth=500 limit=5 %}
-</div>
