@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "A tree-planting decision support tool for urban heat mitigation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2020-plos-one
+excerpt: 'This paper discusses efforts to mitigate urban heat by expanding tree canopy within Boston. We describe a Shiny app for analyzing heat vulnerability & heat exposure, and strategically placing trees.'
+date: 2020-10-08
+venue: 'PLoS ONE'
+paperurl: 'https://doi.org/10.1371/journal.pone.0224959'
+citation: 'Werbin ZR, Heidari L, Buckley S, Brochu P, Butler LJ, Connolly C, et al. (2020). &quot;A tree-planting decision support tool for urban heat mitigation.&quot; <i>PLoS ONE</i>. 15(10): e0224959..'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper discusses efforts to mitigate urban heat by expanding tree canopy within Boston. We describe a Shiny app for analyzing heat vulnerability & heat exposure, and strategically placing trees.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Werbin ZR, Heidari L, Buckley S, Brochu P, Butler LJ, Connolly C, et al. (2020) A tree-planting decision support tool for urban heat mitigation. PLoS ONE 15(10): e0224959. https://doi.org/10.1371/journal.pone.0224959
