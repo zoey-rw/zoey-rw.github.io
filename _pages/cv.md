@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="https://docs.google.com/gview?url=zoey-rw.github.io/images/Werbin_CV_May2020.pdf&embedded=true" style="width:100%; height:300%;" frameborder="0">
+<iframe src="https://docs.google.com/gview?url=zoey-rw.github.io/images/Werbin_CV_May2020.pdf&embedded=true" style="width:100%; height:800px;" frameborder="0">
