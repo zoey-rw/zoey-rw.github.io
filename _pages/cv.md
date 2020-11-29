@@ -7,6 +7,22 @@ redirect_from:
   - /resume
 ---
 
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>CV</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="zoey-rw.github.io/images/Werbin_CV_May2020.pdf" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html>
+
+zoey-rw.github.io/images/Werbin_CV_May2020.pdf
+
+<iframe src="zoey-rw.github.io/images/Werbin_CV_May2020.pdf" width="640" height="480"></iframe>
+
+<a href="zoey-rw.github.io/images/Werbin_CV_May2020.pdf" target="_blank">PDF.</a>
+
 {% include base_path %}
 
 Education
